@@ -1,6 +1,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>果园柑橘树上柑橘检测数据集VOC+YOLO格式2511张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpxZA==">下载</a></td></tr>
+<tr><td>柑橘叶子病害检测数据集VOC+YOLO格式1102张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpxZQ==">下载</a></td></tr>
+<tr><td>洋葱好坏腐烂检测数据集VOC+YOLO格式1015张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpwbA==">下载</a></td></tr>
+<tr><td>智慧农业柑橘虫害检测数据集VOC+YOLO格式1335张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpwaQ==">下载</a></td></tr>
+<tr><td>西瓜叶子病害识别分割数据集labelme格式1738张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJdubQ==">下载</a></td></tr>
+<tr><td>智慧农业马铃薯土豆叶子病害识别分割数据集labelme格式3004张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5puaw==">下载</a></td></tr>
+<tr><td>智慧农业田间大豆毛豆黄豆豆荚检测数据集VOC+YOLO格式2688张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ptZg==">下载</a></td></tr>
 <tr><td>智慧农业蓝莓成熟度检测数据集VOC+YOLO格式926张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5Zyaw==">下载</a></td></tr>
 <tr><td>智慧农业玉米与杂草检测数据集VOC+YOLO格式697张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWbkpttbQ==">下载</a></td></tr>
 <tr><td>智慧农业番茄西红柿成熟度检测数据集VOC+YOLO格式1497张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkplyZw==">下载</a></td></tr>
@@ -293,4 +300,5 @@
 <tr><td>昆虫检测数据集VOC+YOLO格式1873张7类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/136741747">详情</a></td><td><a href="info.md">下载</a></td></tr>
 </tbody>
 </table>
+
 
