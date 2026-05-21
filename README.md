@@ -1,6 +1,21 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧果园桃树叶子病害识别分割数据集labelme格式2918张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9wag==">下载</a></td></tr>
+<tr><td>智慧果园树上百香果识别分割数据集labelme格式1204张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9vZw==">下载</a></td></tr>
+<tr><td>智慧果园黄瓜识别分割数据集labelme格式1002张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9vZg==">下载</a></td></tr>
+<tr><td>智慧果园榴莲大小分类榴莲形状形态分类数据集3314张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9sZA==">下载</a></td></tr>
+<tr><td>智慧农业玉米幼苗缺磷缺钾营养检测数据集VOC+YOLO格式663张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ5xbQ==">下载</a></td></tr>
+<tr><td>智慧农业食用菌菇平菇食用蘑菇生长周期检测数据集VOC+YOLO格式3992张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ5sbQ==">下载</a></td></tr>
+<tr><td>智慧农业高粱幼苗与杂草检测数据集VOC+YOLO格式25张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcm55yZg==">下载</a></td></tr>
+<tr><td>智慧果园荔枝虫害之臭虫椿象害虫检测数据集VOC+YOLO格式1499张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcm55yZQ==">下载</a></td></tr>
+<tr><td>智慧农业无人机视角农田区域识别耕地区域识别分割数据集labelme格式4972张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcm5tvZQ==">下载</a></td></tr>
+<tr><td>智慧农业高粱穗识别分割数据集labelme格式3032张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcm55yZw==">下载</a></td></tr>
+<tr><td>智慧果园树上桃子树枝遮挡叶片遮挡桃子遮挡桃检测数据集VOC+YOLO格式849张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcm5tuag==">下载</a></td></tr>
+<tr><td>智慧农业马铃薯叶子土豆叶子病害检测数据集VOC+YOLO格式3004张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtyag==">下载</a></td></tr>
+<tr><td>智慧果园树上橘子成熟度检测数据集VOC+YOLO格式1566张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtyZw==">下载</a></td></tr>
+<tr><td>玉米植株生长阶段检测数据集VOC+YOLO格式1482张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtxag==">下载</a></td></tr>
+<tr><td>智慧农业马铃薯叶子病害检测数据集VOC+YOLO格式1774张3类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtxaA==">下载</a></td></tr>
 <tr><td>智慧农业田垄采摘机器人道路识别农作物过道区域识别分割数据集labelme格式211张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxqaw==">下载</a></td></tr>
 <tr><td>智慧农业辣椒成熟度检测数据集VOC+YOLO格式513张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxqaQ==">下载</a></td></tr>
 <tr><td>智慧农业甘蔗叶子病害检测数据集VOC+YOLO格式1248张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxqZg==">下载</a></td></tr>
